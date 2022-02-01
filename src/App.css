@@ -1,7 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 body{
   padding: 0;
   margin: 0;
  /* background:; */
+ font-family: 'Roboto', sans-serif;
 }
 .myLogo{
   position: absolute;
@@ -83,5 +85,512 @@ top: 371px;
 background: #FFFFFF;
 border: 0.5px solid #969696;
 box-sizing: border-box;
+border-radius: 5px;
+}
+
+.bill{
+  position: absolute;
+  width: 58px;
+  height: 16px;
+  left: 100px;
+  top: 485px;
+  
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  
+  color: #969696;}
+
+
+
+.textField{
+  position: absolute;
+  width: 214px;
+  height: 69px;
+  left: 90px;
+  top: 521px;
+  
+  background: #FFFFFF;
+  border: 0.5px solid #969696;
+  box-sizing: border-box;
+  border-radius: 5px;}
+
+.date{
+  position: absolute;
+width: 29px;
+height: 16px;
+left: 641px;
+top: 371px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #969696;
+
+}
+
+.inputDate{
+  position: absolute;
+width: 162px;
+height: 41px;
+left: 689px;
+top: 371px;
+
+background: #FFFFFF;
+border: 0.5px solid #969696;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+.payment{
+  position: absolute;
+width: 98px;
+height: 16px;
+left: 582px;
+top: 427px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #969696;
+}
+.inputPayment{
+  position: absolute;
+width: 162px;
+height: 41px;
+left: 688px;
+top: 426px;
+
+background: #FFFFFF;
+border: 0.5px solid #969696;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+.due{
+  position: absolute;
+width: 57px;
+height: 16px;
+left: 617px;
+top: 484px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #969696;
+
+}
+
+.inputDue{
+  position: absolute;
+width: 162px;
+height: 41px;
+left: 689px;
+top: 481px;
+
+background: #FFFFFF;
+border: 0.5px solid #969696;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+.po{
+  position: absolute;
+width: 72px;
+height: 16px;
+left: 606px;
+top: 539px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #969696;
+}
+.inputPo{
+  position: absolute;
+width: 162px;
+height: 41px;
+left: 689px;
+top: 536px;
+
+background: #FFFFFF;
+border: 0.5px solid #969696;
+box-sizing: border-box;
+border-radius: 5px
+}
+
+/* Section3 */
+  .box{
+  position: absolute;
+width: 763px;
+height: 34px;
+left: 90px;
+top: 612px;
+
+background: rgba(238, 146, 9, 0.8);
+border-radius: 5px;
+}
+.item{
+  position: absolute;
+width: 29px;
+height: 16px;
+left: 100px;
+top: 611px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+.quantity{
+  position: absolute;
+width: 51px;
+height: 16px;
+left: 550px;
+top: 611px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+
+}
+.inputQuantity{
+  position: absolute;
+width: 61px;
+height: 25px;
+left: 547px;
+top: 652px;
+
+background: #FFFFFF;
+border: 0.5px solid #969696;
+box-sizing: border-box;
+border-radius: 5px;
+}
+.rate{
+  position: absolute;
+width: 29px;
+height: 16px;
+left: 630px;
+top: 611px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+
+}
+
+.rateInput{
+  position: absolute;
+width: 61px;
+height: 25px;
+left: 613px;
+top: 652px;
+
+background: #FFFFFF;
+border: 0.5px solid #969696;
+box-sizing: border-box;
+border-radius: 5px;
+}
+.amount{
+  position: absolute;
+width: 50px;
+height: 16px;
+left: 802px;
+top: 611px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #FFFFFF;
+}
+
+.inputAmount{
+  position: absolute;
+width: 36px;
+height: 16px;
+left: 816px;
+top: 645px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #969696;
+}
+
+.Description{
+  position: absolute;
+width: 441px;
+height: 26px;
+left: 95px;
+top: 651px;
+
+background: #FFFFFF;
+border: 0.5px solid #969696;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+.lineItem{
+  position: absolute;
+width: 103px;
+height: 38px;
+left: 90px;
+top: 688px;
+
+background: #EE9209;
+border-radius: 5px;
+border: none;
+}
+
+/* section4 */
+.notes{
+  position: absolute;
+width: 50px;
+height: 16px;
+left: 100px;
+top: 745px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #969696;
+
+opacity: 0.8;
+}
+.subTotal{
+  position: absolute;
+width: 52px;
+height: 16px;
+left: 623px;
+top: 736px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #969696;
+}
+
+.inputSubtotal{
+  position: absolute;
+width: 36px;
+height: 16px;
+left: 816px;
+top: 736px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #969696;
+
+}
+.notes2{
+  position: absolute;
+width: 446px;
+height: 43px;
+left: 90px;
+top: 784px;
+
+background: #FFFFFF;
+border: 0.5px solid #969696;
+box-sizing: border-box;
+}
+.tax{
+  position: absolute;
+width: 23px;
+height: 16px;
+left: 651px;
+top: 772px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #969696;
+}
+
+.inputTax{
+  position: absolute;
+width: 137px;
+height: 23px;
+left: 715px;
+top: 782px;
+
+background: #FFFFFF;
+border: 0.5px solid #969696;
+box-sizing: border-box;
+border-radius: 5px;
+text-align: right;
+}
+
+.terms{
+  position: absolute;
+width: 40px;
+height: 16px;
+left: 100px;
+top: 839px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #969696;
+
+}
+
+.total{
+  position: absolute;
+width: 32px;
+height: 16px;
+left: 643px;
+top: 809px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #969696;
+}
+.inputTotal{
+  position: absolute;
+width: 36px;
+height: 16px;
+left: 816px;
+top: 809px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #969696;
+}
+
+.terms2 {
+  position: absolute;
+width: 446px;
+height: 43px;
+left: 95px;
+top: 879px;
+
+background: #FFFFFF;
+border: 0.5px solid #969696;
+box-sizing: border-box;
+}
+
+.amountP{
+  position: absolute;
+width: 81px;
+height: 16px;
+left: 594px;
+top: 855px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #969696;
+}
+.inputPaid{
+  position: absolute;
+width: 137px;
+height: 23px;
+left: 715px;
+top: 865px;
+
+background: #FFFFFF;
+border: 0.5px solid #969696;
+box-sizing: border-box;
+border-radius: 5px;
+}
+
+.balance{
+  position: absolute;
+width: 82px;
+height: 16px;
+left: 595px;
+top: 891px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #969696;
+
+}
+.inputBalance{
+  position: absolute;
+width: 36px;
+height: 16px;
+left: 816px;
+top: 891px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+
+color: #969696;
+}
+
+.sendInvoice{
+  position: absolute;
+width: 198px;
+height: 61px;
+left: 944px;
+top: 77px;
+
+background: rgba(241, 168, 58, 0.5);
 border-radius: 5px;
 }
